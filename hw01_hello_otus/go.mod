@@ -1,4 +1,4 @@
-module github.com/ketworie/hw01_hello_otus
+module github.com/ketworie/otus-homework/hw01_hello_otus
 
 go 1.16
 
